@@ -64,22 +64,10 @@
 
 ## 🚀 Projetos em Destaque
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/SOLUTGO/Gesta-o-de-Seguran-a">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=SOLUTGO&repo=Gesta-o-de-Seguran-a&theme=dark&hide_border=true" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <strong>📄 Plataforma de Currículo/Vagas</strong>
-      <br/>
-      <em>React + Vite + TanStack Router + Supabase</em>
-      <br/>
-      <small>(repositório em desenvolvimento)</small>
-    </td>
-  </tr>
-</table>
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**Gestão de Segurança**](https://github.com/SOLUTGO/Gesta-o-de-Seguran-a) | Aplicativo Android para gestação | `Dart` |
+| **Plataforma de Currículo/Vagas** | Análise de compatibilidade entre currículo e vagas *(repositório privado, em desenvolvimento)* | `React` `Vite` `TanStack Router` `Supabase` |
 
 ---
 
